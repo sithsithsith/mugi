@@ -1,1 +1,1 @@
-# mugiservices
+# Authentication service leveraging aws cognito `WIP`
