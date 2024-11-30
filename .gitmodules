@@ -1,6 +1,3 @@
 [submodule "packages/tailwind-react-components"]
 	path = packages/tailwind-react-components
 	url = git@github.com:sithsithsith/tailwind-react-components.git
-[submodule "services/cognito-auth-service"]
-	path = services/cognito-auth-service
-	url = https://github.com/sithsithsith/cognito-auth-service
